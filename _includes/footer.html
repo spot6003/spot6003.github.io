@@ -1,0 +1,7 @@
+
+{%- if site.author -%} {{ site.author | escape }} {%- else -%} {{ site.title | escape }} {%- endif -%}
+{%- if site.email -%}
+{{ site.email }}
+{%- endif -%}
+{%- include social.html -%}
+{{- site.description | escape -}}
