@@ -4,7 +4,7 @@ title: "About Me"
 permalink: /aboutme
 ---
 
-<img src='img/mark.jpg' class='avatar'>
+<img src='img/mark.jpg' style='border-radius: 50%'>
 
 <h2>HEY THERE,</h2>
 <h1>I'm Mark.</h1>
