@@ -4,16 +4,23 @@ title: "About Me"
 permalink: /aboutme
 ---
 
-<img src='img/mark.jpg' style='border-radius: 50%'>
+<img src='img/mark.jpg' style='border-radius: 50%;width:20%;border:2px solid orange'>
 
-<h2>HEY THERE,</h2>
-<h1>I'm Mark.</h1>
+<h1>HEY THERE,</h1>
+<h2>I'm Mark.</h2>
 <p>I'm an upcoming NAIT graduate that enjoys creating apps that solve problems and learning about all things software.
 Welcome to my portfolio. I'm glad to see you</p>
 
 
+<p>Check out my recent projects using the skills below on the project page</p>
+
+
 <p>My Skills</p>
 <ul>
-    <li></li>
+    <li>C#</li>
+    <li>Javascript</li>
+    <li>Java</li>
+    <li>SQL</li>
+    <li>HTML & CSS</li>
+    <li>Dart</li>
 </ul>
-<img src='img/etoolsscreenshot1.png'>
