@@ -42,3 +42,25 @@ before the reorder threshold is reached. The add button allows the manager to ad
     <li>Flutter Framework utilizing Dart</li>
     <li>REST API call</li>
 </ul>
+
+<h2>Course Assignment: Custom REST API using Java</h2>
+<p>This app was programmed using Java to implement a custom REST API that I created based on NHL player stats for some Edmonton Oilers players.
+The backend and frontend aspects of this project were both implemented by me. Upon starting the app, you will encounter this page seen below. This project implements create, read, update, and delete (CRUD) principles</p>
+<img src="/img/javascreenshot1.png">
+<p>When the app starts, the site uses the read operation to get data from the REST API to display it to the user. From this page, the user can either create a new player stat, edit an existing one, check more details about the stat, or delete the stat.</p>
+<img src="/img/javascreenshot2.png">
+<p>The image above shows the page the user navigates to upon pressing create. Here they enter the required information and then press create.
+The inputted data must meet certain requirements and the page will not allow a new entity to be created till the requirements are met. Upon
+successful creation a success message is shown on the list page. This process is similar to the edit page, shown below</p>
+<img src="/img/javascreenshot3.png">
+<p>Like the create page, the user sends in information that must meet requirements but this time the user may change zero, one, or many of the
+entity's fields. When the edit has been completed, a success message is shown on the list page.</p>
+<img src="img/javascreenshot4.png">
+<p>The final operation that can be done on the app is deleting an entity. When a user presses delete on the list page, they are shown the information marked for deletion. Upon pressing the delete button below all the details, a final dialogue appears asking if the user is sure
+they want to delete the entity. If the user confirms yes, the entity is deleted and a success message is shown on the list page. All of the above pages also have a link to navigate the user back to the list page.</p>
+
+<p>Skills Used</p>
+<ul>
+    <li>REST API implementation using Java</li>
+    <li>HTML with PrimeFaces</li>
+</ul>
