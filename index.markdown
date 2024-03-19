@@ -1,7 +1,6 @@
 ---
-layout: page
-title: "About Me"
-permalink: /aboutme
+layout: home
+title: "Mark Yong"
 ---
 
 <img src='img/mark.jpg' style='border-radius: 50%;width:20%;border:2px solid orange'>
