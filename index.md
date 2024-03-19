@@ -8,7 +8,7 @@ permalink: /aboutme
 
 <h1>HEY THERE,</h1>
 <h2>I'm Mark.</h2>
-<p>I'm an upcoming NAIT graduate that enjoys creating apps that solve problems and learning about all things software.
+<p>I'm an upcoming graduate from NAIT's Digital Media and IT program in the computer software development concentration that enjoys creating apps that solve problems and learning about all things software.
 Welcome to my portfolio. I'm glad to see you</p>
 
 
