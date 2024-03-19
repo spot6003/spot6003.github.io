@@ -23,7 +23,22 @@ before the reorder threshold is reached. The add button allows the manager to ad
 
 <p>Skills Used</p>
 <ul>
-    <li>Blazor Framework utilizing C#</li>
+    <li>Blazor Framework utilizing C Sharp</li>
     <li>SQL</li>
     <li>HTML & CSS</li>
+</ul>
+
+<h2>Course Assignment: Stock App</h2>
+<p>This app programmed in the Dart language lets users search up a stock symbol and then save the stock information to a database that lets the user see the information as many times as they want until they delete the database.</p>
+<img src="img/dartscreenshot1.png">
+<p>When the user taps the Add Stock button, an input menu pops up and prompts the user to enter the stock symbol for the stock they want information for. In this case, we are searching for Walmart Inc. as shown below.</p>
+<img src="img/dartscreenshot2.png">
+<p>Upon tapping the add stock button in the input menu, the app makes a call to a REST API and brings back information about the searched stock, saves, then displays the information to the user. The information saved in the database does not change after the original call so if the user wants updated information they will need to use the add stock button again. The result of this process is shown below</p>
+<img src="/img/dartscreenshot3.png">
+
+
+<p>Skills Used</p>
+<ul>
+    <li>Flutter Framework utilizing Dart</li>
+    <li>REST API call</li>
 </ul>
