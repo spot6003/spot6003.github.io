@@ -4,6 +4,8 @@ title: "Projects"
 permalink: "/projects"
 ---
 
+<p>This project list is subject to change. Check back often to see the new things I've been working on!</p>
+
 <h2>Course Project: ETools Purchasing System </h2>
 <p>This app programmed in the C Sharp language is meant to be used by the purchasing department
 of the fictional "ETools" company. The purchasing section let managers generate a new purchase order,
@@ -63,4 +65,20 @@ they want to delete the entity. If the user confirms yes, the entity is deleted 
 <ul>
     <li>REST API implementation using Java</li>
     <li>HTML with PrimeFaces</li>
+</ul>
+
+
+<h2>Course Assignment: React and REST APIs</h2>
+<p>This app was programmed using Javascript to provide a user with a list of authors and their respective books. This information is retrieved from a REST API along with their date of birth and date of death if applicable. Clicking the Details button next to the book routed the user to a new page with the book's title, and all covers if the REST API returned any</p>
+<img src="img/javascriptscreenshot1.png">
+<p>If the user wants to check out the details of a different author, they would find that author in the author's list and press the show button. A request is sent to the REST API and all the site's data is updated through React State and it's useEffect method. An example using J.R.R Tolkien is shown below
+<img src="img/javascriptscreenshot2.png">
+<p>The result of clicking on the details button of a book as discussed above is shown below</p>
+<img src="img/javascriptscreenshot3.png">
+
+<p>Skills Used</p>
+<ul>
+    <li>React library using Javascript</li>
+    <li>REST API implementation through Javascript</li>
+    <li>Page routing using Javascript</li>
 </ul>
