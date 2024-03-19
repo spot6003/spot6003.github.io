@@ -1,5 +1,6 @@
 ---
-layout: home
+layout: default
+
 ---
 
 <img src='img/mark.jpg' style='border-radius: 50%;width:20%;border:2px solid orange'>
